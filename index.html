@@ -33,40 +33,35 @@
   }
 
   /* 追加：グリッド用 */
-  .thumb-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    padding: 0;
-    list-style: none;
-  }
-  .thumb-grid li {
-    width: 320px;
-  }
-  li p {
-    text-align: center;
-    margin-top: 5px;
-    font-size: 14px;
-  }
 .thumb-grid {
   display: flex;
-  flex-wrap: wrap;          /* 横幅に応じて折り返す */
-  justify-content: center;  /* ← これで中央寄せ */
-  gap: 20px;                /* サムネ同士の間隔 */
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
   padding: 0;
   list-style: none;
 }
 .thumb-grid li {
-  flex: 1 1 320px;  /* 最小幅320px、必要に応じて伸びる */
-  max-width: 400px; /* 最大幅400px */
+  flex: 1 1 320px;
+  max-width: 400px;
   text-align: center;
 }
- li p {
+li p {
+  margin: 10px 0;
+  line-height: 1.5;
   text-align: center;
-  margin: 10px 0;    /* 上下の余白を増やす */
-  line-height: 1.5;  /* 行間を広げる */
   font-size: 14px;
 }
+.youtube-thumb {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  border: 2px solid #333;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+  transition: transform 0.2s;
+}
+.youtube-thumb:hover { transform: scale(1.05); }
+.thumb-caption { margin-top: 5px; font-size: 14px; }
   </style>
 </head>
 <body>
@@ -90,8 +85,6 @@
     </a>
     <p class="thumb-caption">降臨の短い解説</p>
   </li>
-</ul>
-
 </ul>
 
 </body>
