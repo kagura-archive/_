@@ -48,6 +48,18 @@
     margin-top: 5px;
     font-size: 14px;
   }
+.thumb-grid {
+  display: flex;
+  flex-wrap: wrap;          /* 横幅に応じて折り返す */
+  justify-content: center;  /* ← これで中央寄せ */
+  gap: 20px;                /* サムネ同士の間隔 */
+  padding: 0;
+  list-style: none;
+}
+.thumb-grid li {
+  width: 320px;             /* サムネ幅に合わせる */
+  text-align: center;       /* li内のテキストも中央 */
+}
 </style>
 </head>
 <body>
