@@ -57,10 +57,17 @@
   list-style: none;
 }
 .thumb-grid li {
-  width: 400px;       /* 320px → 400px に変更 */
+  flex: 1 1 320px;  /* 最小幅320px、必要に応じて伸びる */
+  max-width: 400px; /* 最大幅400px */
   text-align: center;
 }
-</style>
+ li p {
+  text-align: center;
+  margin: 10px 0;    /* 上下の余白を増やす */
+  line-height: 1.5;  /* 行間を広げる */
+  font-size: 14px;
+}
+  </style>
 </head>
 <body>
 
@@ -86,9 +93,6 @@
   </li>
 </ul>
 
-  <li>
-    <a href="https://youtu.be/RzN7qIjlFtA" target="_blank">五穀舞</a>
-  </li>
 </ul>
 
 </body>
