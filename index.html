@@ -19,16 +19,6 @@
 h1,h2{
   text-align:center;
 }	  
-	  /* サムネ画像 */
-  .youtube-thumb {
-    width: 320px;      /* 幅を固定 */
-    height: auto;      /* 高さ自動 → 黒帯なし */
-    border-radius: 5px;
-    border: 2px solid #333;
-    display: inline-block; /* 中央配置のためにinline-block */
-    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
-    transition: transform 0.2s;
-  }
 
   /* サムネ下のテキスト */
   .thumb-caption {
@@ -59,12 +49,16 @@ li p {
 .youtube-thumb {
   width: 100%;
   height: auto;
+  display: block;
+  margin: 0 auto;
   border-radius: 5px;
   border: 2px solid #333;
   box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
   transition: transform 0.2s;
 }
-.youtube-thumb:hover { transform: scale(1.05); }
+.youtube-thumb:hover {
+  transform: scale(1.05);
+}
 .thumb-caption { margin-top: 5px; font-size: 14px; }
   </style>
 </head>
