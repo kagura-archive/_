@@ -77,7 +77,7 @@ Once you understand the story behind the myth, you will find Nakae Iwato Kagura 
 
   ### 八雲払
 中江岩戸神楽の中心演目で、スサノオが八岐大蛇を退治し、クシイナダヒメを助ける舞。 <br> 
- [画像を見る](リンク先)
+ [画像を見る]([[リンク先]](https://youtu.be/rS_4Qiltq2I)(https://youtu.be/rS_4Qiltq2I))
 
   ### 天の〆
 中江岩戸神楽の名物演目で、素盞嗚命が竹柱を登り、高天原で八坂瓊之曲玉と八咫の鏡を授かり、根の国へ降りる舞。 <br> 
