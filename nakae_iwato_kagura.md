@@ -1,6 +1,6 @@
 # 中江岩戸神楽（紹介ページ）
 
-**■ 神楽の起源 — 祈りの舞**
+##■ 神楽の起源 — 祈りの舞
 
 神楽のはじまりは、日本神話にさかのぼる。
 『古事記』『日本書紀』に記される天岩戸の神話では、
@@ -20,7 +20,7 @@
 生きてきた証、その積み重ねである。<br><br>   
 
  
-**■ 中江岩戸神楽の誕生**
+##■ 中江岩戸神楽の誕生**
 
 中江岩戸神楽は、江戸時代・明和年間（1765年頃）にかたちづくられたと伝えられる。
 伊勢神楽・出雲神楽・高千穂神楽の流れに、宮中神楽の要素を取り入れ、三十三座として構成された。
@@ -36,7 +36,7 @@
 ── 中江岩戸神楽。<br><br>   
 
 
-**■ 中江岩戸神楽の特色（芯）**
+##■ 中江岩戸神楽の特色（芯）**
 
 ① 神話そのものが舞台に現れる
 物語を説明するのではなく、神話の場がそのまま立ち上がる形式。
@@ -57,17 +57,6 @@
 
 一言で言うと
 「神話が祈りのまま現在に立ち上がる神楽」<br> <br> 
-
-
-
-～ The origins of kagura ～
-The origins of kagura are said to date back to the world of Japanese mythology.
-
-～ The Birth of Nakae Iwato Kagura ～
-Nakae Iwato Kagura is said to have been established around 1765 during the Edo period, incorporating elements from Ise Kagura, Izumo Kagura, Takachiho Kagura, and the imperial court kagura performed at the imperial palace, and consisting of 33 acts.
-The content focuses on the world of mythology described in the Kojiki and Nihon Shoki.
-Once you understand the story behind the myth, you will find Nakae Iwato Kagura enjoyable to watch and dance to.
-（Excerpt from the Nakae Iwato Kagura pamphlet）
 
 
 **代表演目** [詳細ページ](./33za/tenson.md)
