@@ -48,10 +48,10 @@ body {
 .hero-text h3 {
   margin:0 0 25px;
 }
-.hero-text,
+
 .hero-text h1,
 .hero-text p,
 .hero-text h2,
 .hero-text h3 {
-  color:#f2f0e6;
+  color: #f2f0e6 !important;
 }
