@@ -1,6 +1,6 @@
 body {
   margin:0;
-  font-family: "Yu Gothic", sans-serif;
+  font-family:"Noto Sans JP", sans-serif;
   color:#f2f0e6
   text-align:center;
 　background:#1a1917;
@@ -36,6 +36,7 @@ background:#1c1c1c;
 
 .hero-text h1 {
   margin:0 0 10px;
+　font-family:"Noto Serif JP", serif;
 }
 
 .hero-text p {
