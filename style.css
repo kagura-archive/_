@@ -3,12 +3,12 @@ body {
   font-family:"Noto Sans JP", sans-serif;
   color:#f2f0e6
   text-align:center;
-　background:#1a1917;
+　background:#1c1c1c;
 }
 　　.hero {
  　　 position: relative;
   　　height: 100vh;
-background:#1c1c1c;
+　　　background:#1c1c1c;
 　　}
     .hero-text {
       position: absolute;
