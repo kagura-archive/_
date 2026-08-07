@@ -21,15 +21,15 @@ body {
       margin:0;
       text-shadow: 2px2px6px #000;
     }
-  .hero-text a {
+.hero-text a {
   display:inline-block;
-  margin:10px;
-  padding:8px 18px;
-  background:#8f6b20;
-  color:#fff;
+  margin:20px;
+  padding:10px 20px;
+  background:#c9a227;
+  color:#000;
   text-decoration:none;
   font-weight:bold;
-  border-radius:3px;
+  border-radius:5px;
 }
 	  .hero-text h1 {
   margin:0 0 10px;
