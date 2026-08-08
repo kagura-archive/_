@@ -59,3 +59,14 @@ body {
 .hero-text h3 {
   color:#222;
 }
+
+body {
+  background: red !important;
+}
+
+.hero-text h1,
+.hero-text p,
+.hero-text h2,
+.hero-text h3 {
+  color: blue !important;
+}
