@@ -1,9 +1,9 @@
 body {
   margin:0;
   font-family:"Noto Sans JP", sans-serif;
-  color:#f2f0e6;
+  color:#222;
   text-align:center;
-　background:#1c1c1c;
+  background:#fff;
 }
 　　.hero {
  　　 position: relative;
