@@ -90,3 +90,7 @@ body {
 .page-layout main {
   flex: 1;
 }
+
+.side-nav a {
+  display: block !important;
+}
