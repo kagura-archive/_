@@ -157,3 +157,19 @@ body {
   background: #c9a227;
   margin: 20px auto 0;
 }
+
+.hero-text a {
+  min-width: 180px;
+  box-sizing: border-box;
+  padding: 12px 24px;
+  border: 1px solid #c9a227;
+  background: transparent;
+  color: #c9a227;
+  letter-spacing: 0.05em;
+  transition: background 0.2s, color 0.2s;
+}
+
+.hero-text a:hover {
+  background: #c9a227;
+  color: #1c1c1c;
+}
