@@ -147,3 +147,13 @@ body {
   border: 1px solid #c9a227;
   pointer-events: none;
 }
+
+
+.hero-text h1::after {
+  content: "";
+  display: block;
+  width: 80px;
+  height: 1px;
+  background: #c9a227;
+  margin: 20px auto 0;
+}
