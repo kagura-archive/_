@@ -116,3 +116,19 @@ body {
 .page-layout main {
   text-align: left !important;
 }
+
+.hero-text h1 {
+  color: #c9a227;
+}
+
+.hero-text h2 {
+  color: #ddd;
+}
+
+.hero-text h3 {
+  color: #aaa;
+}
+
+.hero-text a {
+  color: #c9a227;
+}
