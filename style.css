@@ -93,3 +93,7 @@ body {
 .side-nav a {
   display: block !important;
 }
+
+.page-layout main {
+  text-align: left !important;
+}
