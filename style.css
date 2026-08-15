@@ -132,3 +132,18 @@ body {
 .hero-text a {
   color: #c9a227;
 }
+
+.hero-text {
+  position: relative;
+}
+
+.hero-text::before {
+  content: "";
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
+  border: 1px solid #c9a227;
+  pointer-events: none;
+}
