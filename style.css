@@ -219,5 +219,6 @@ body {
   width: 120px;
   flex-shrink: 0;
   padding-left: 15px;
+  padding-top: 20px;
   box-sizing: border-box;
 }
