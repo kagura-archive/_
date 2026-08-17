@@ -90,15 +90,16 @@ body {
 
 .page-layout {
   display: flex;
-  gap: 40px;
+  gap: 20px;
   max-width: 1000px;
   margin: 20px auto 0;
 }
 
-.side-nav {
-  width: 120px;
-  flex-shrink: 0;
-}
+@media (max-width: 600px) {
+  .side-nav {
+    width: 70px;
+    font-size: 0.9em;
+  }
 
 .side-nav a {
   display: block;
