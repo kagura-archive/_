@@ -223,6 +223,7 @@ body {
   flex-shrink: 0;
   padding-left: 15px;
   box-sizing: border-box;
+  white-space: nowrap;
 }
 
 @media (max-width: 600px) {
