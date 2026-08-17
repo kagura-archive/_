@@ -106,8 +106,7 @@ body {
   margin-bottom: 12px;
 }
 
-@media (max-width: 600px) {
-  .page-layout main {
+.page-layout main {
     padding-right: 15px;
     box-sizing: border-box;
   }
