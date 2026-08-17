@@ -105,10 +105,11 @@ body {
   margin-bottom: 12px;
 }
 
-.page-layout main {
-  flex: 1;
-  padding-right: 15px;
-  box-sizing: border-box;
+@media (max-width: 600px) {
+  .page-layout main {
+    padding-right: 15px;
+    box-sizing: border-box;
+  }
 }
 
 .side-nav a {
