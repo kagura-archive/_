@@ -173,3 +173,33 @@ body {
   background: #c9a227;
   color: #1c1c1c;
 }
+
+
+.performance-list {
+  margin-top: 20px;
+}
+
+.performance-item {
+  padding: 20px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.performance-item h4 {
+  margin: 0 0 10px;
+  font-size: 1.3em;
+  color: #333;
+}
+
+.performance-item p {
+  margin: 0 0 12px;
+  line-height: 1.8;
+}
+
+.performance-item a {
+  color: #8a6d1d;
+  text-decoration: none;
+}
+
+.performance-item a:hover {
+  text-decoration: underline;
+}
