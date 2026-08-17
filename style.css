@@ -107,6 +107,8 @@ body {
 
 .page-layout main {
   flex: 1;
+  padding-right: 15px;
+  box-sizing: border-box;
 }
 
 .side-nav a {
