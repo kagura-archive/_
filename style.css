@@ -214,3 +214,10 @@ body {
   text-decoration: none;
   font-weight: bold;
 }
+
+.side-nav {
+  width: 120px;
+  flex-shrink: 0;
+  padding-left: 15px;
+  box-sizing: border-box;
+}
