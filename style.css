@@ -278,6 +278,8 @@ body {
 
 @media (max-width: 600px) {
   .cm-list {
+    display: grid;
     grid-template-columns: 1fr;
+    gap: 25px;
   }
 }
