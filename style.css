@@ -238,3 +238,33 @@ body {
   color: #777;
   margin-left: 8px;
 }
+
+.cm-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 25px;
+  margin-top: 30px;
+}
+
+.cm-card {
+  text-align: center;
+}
+
+.cm-card a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.cm-image {
+  aspect-ratio: 9 / 16;
+  background: #eee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.cm-card h4 {
+  margin: 10px 0 0;
+  font-size: 1.1em;
+}
