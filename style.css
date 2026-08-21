@@ -268,3 +268,10 @@ body {
   margin: 10px 0 0;
   font-size: 1.1em;
 }
+
+.cm-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
