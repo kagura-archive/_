@@ -283,3 +283,7 @@ body {
     gap: 25px;
   }
 }
+
+.cm-list + h3 {
+  margin-top: 40px;
+}
