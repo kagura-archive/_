@@ -293,3 +293,26 @@ body {
   box-sizing: border-box;
   white-space: nowrap;
 }
+
+.za-index {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px 15px;
+  margin: 20px 0 30px;
+}
+
+.za-index a {
+  color: #8a6d1d;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.za-index a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .za-index {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
