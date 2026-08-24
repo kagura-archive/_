@@ -295,13 +295,14 @@ body {
 }
 
 .za-index {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 8px 15px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 20px;
   margin: 20px 0 30px;
 }
 
 .za-index a {
+  display: block;
   color: #8a6d1d;
   text-decoration: none;
   font-size: 14px;
