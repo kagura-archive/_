@@ -93,10 +93,6 @@ body {
   box-sizing: border-box;
 }
 
-.side-nav a {
-  display: block !important;
-}
-
 .page-layout main {
   text-align: left !important;
 }
@@ -157,7 +153,6 @@ body {
   background: #c9a227;
   color: #1c1c1c;
 }
-
 
 .performance-list {
   margin-top: 20px;
