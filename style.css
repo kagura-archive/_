@@ -82,29 +82,15 @@ body {
   color:#222;
 }
 
-
 .markdown-body {
   color: #333;
 }
-
 
 .page-layout {
   max-width: 1000px;
   margin: 20px auto 0;
   padding: 0 20px;
   box-sizing: border-box;
-}
-
-@media (max-width: 600px) {
-  .side-nav {
-    width: 80px;
-    font-size: 0.9em;
-  }
-
-.page-layout main {
-    padding-right: 15px;
-    box-sizing: border-box;
-  }
 }
 
 .side-nav a {
