@@ -101,11 +101,6 @@ body {
     font-size: 0.9em;
   }
 
-.side-nav a {
-  display: block;
-  margin-bottom: 12px;
-}
-
 .page-layout main {
     padding-right: 15px;
     box-sizing: border-box;
