@@ -281,3 +281,15 @@ body {
 .back-top a:hover {
   text-decoration: underline;
 }
+
+.side-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 15px 20px;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
