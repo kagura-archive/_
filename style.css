@@ -327,7 +327,7 @@ body {
   }
 
   .hero-text a {
-    display: block;
+    display: block !important;
     width: 80%;
     margin: 10px auto;
     box-sizing: border-box;
