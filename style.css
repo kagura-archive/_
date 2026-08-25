@@ -339,3 +339,9 @@ body {
     font-size: 32px;
   }
 }
+@media (max-width: 600px) {
+  .hero-text h2 {
+    font-size: 14px;
+    line-height: 1.6;
+  }
+}
