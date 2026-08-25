@@ -21,7 +21,7 @@ body {
   padding: 60px 40px;
   border: 1px solid #c9a227;
   box-sizing: border-box;
-  transform: translateY(-20px);
+  transform: translateY(-10px);
 }
 
 .hero-text h1 {
