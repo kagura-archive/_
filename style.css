@@ -14,16 +14,6 @@ body {
   justify-content: center;
 }
 
-.hero-text {
-  width: 80%;
-  max-width: 700px;
-  text-align: center;
-  padding: 60px 40px;
-  border: 1px solid #c9a227;
-  box-sizing: border-box;
-  transform: translateY(-20px);
-}
-
 .hero-text h1 {
   font-family: "Noto Serif JP", serif;
   font-size: 3em;
