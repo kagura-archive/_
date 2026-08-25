@@ -354,3 +354,14 @@ body {
 .hero-text h2 {
   margin-bottom: 15px;
 }
+
+
+.hero-text h2 {
+  margin: 0 0 10px;
+}
+
+.hero-text h3 {
+  margin: 0 0 20px;
+}
+
+
