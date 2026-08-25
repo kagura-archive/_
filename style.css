@@ -344,6 +344,11 @@ body {
     font-size: 12px;
     line-height: 1.6;
   }
+
+    .hero-text h3 {
+    font-size: 12px;
+    line-height: 1.6;
+  }
 }
 
 .hero-text h2 {
