@@ -141,6 +141,7 @@ body {
 
 .hero-text a {
   min-width: 180px;
+  min-height: 44px;
   box-sizing: border-box;
   padding: 12px 24px;
   border: 1px solid #c9a227;
