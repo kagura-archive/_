@@ -360,3 +360,7 @@ body {
     margin-top: 15px;
   }
 }
+
+.cm-list-other {
+  grid-template-columns: repeat(4, 1fr);
+}
