@@ -364,3 +364,18 @@ body {
 .cm-list-other {
   grid-template-columns: repeat(4, 1fr);
 }
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+  max-width: 900px;
+  margin: 30px auto 0;
+}
+
+.image-grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
