@@ -379,3 +379,10 @@ body {
   display: block;
 }
 
+@media (max-width: 600px) {
+  .image-grid {
+    grid-template-columns: 1fr;
+    gap: 25px;
+  }
+}
+
