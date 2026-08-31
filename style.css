@@ -368,8 +368,8 @@ body {
 .image-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 30px;
-  max-width: 900px;
+  gap: 25px;
+  max-width: 760px;
   margin: 30px auto 0;
 }
 
