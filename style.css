@@ -386,3 +386,9 @@ grid-template-columns: repeat(3, 1fr);
   }
 }
 
+.image-caption {
+  margin: 6px 0 0;
+  font-size: 13px;
+  color: #666;
+  text-align: center;
+}
