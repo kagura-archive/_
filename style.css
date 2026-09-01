@@ -392,3 +392,17 @@ grid-template-columns: repeat(3, 1fr);
   color: #666;
   text-align: center;
 }
+
+.za-index {
+  max-width: 850px;
+  margin: 20px auto 30px;
+  text-align: center;
+  line-height: 2;
+}
+
+.za-index a {
+  display: inline-block;
+  margin: 0 6px;
+  text-decoration: none;
+  color: #8a6d1d;
+}
