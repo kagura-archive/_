@@ -406,3 +406,9 @@ grid-template-columns: repeat(3, 1fr);
   text-decoration: none;
   color: #8a6d1d;
 }
+
+@media (max-width: 600px) {
+  .thumb-grid li {
+    width: 160px;
+  }
+}
