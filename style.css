@@ -421,3 +421,10 @@ grid-template-columns: repeat(3, 1fr);
   height: auto;
   margin: 0 auto;
 }
+
+.youtube-button a {
+  display: block;
+  text-align: center;
+  padding: 12px 20px;
+  text-decoration: none;
+}
