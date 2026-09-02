@@ -435,7 +435,3 @@ grid-template-columns: repeat(3, 1fr);
   text-decoration: none;
 }
 
-.image-detail {
-  background: #000;
-  padding: 20px;
-}
