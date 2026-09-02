@@ -417,7 +417,7 @@ grid-template-columns: repeat(3, 1fr);
 .image-detail img {
   display: block;
   width: 100%;
-  max-width: 600px;
+  max-width: 700px;
   height: auto;
   margin: 0 auto;
 }
