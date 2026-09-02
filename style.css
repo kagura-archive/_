@@ -436,6 +436,8 @@ grid-template-columns: repeat(3, 1fr);
 }
 
 .youtube-button {
-  background: #fff;
+background: #000;
+color: #fff;
+border: 1px solid #fff;
 }
 
