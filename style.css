@@ -435,3 +435,7 @@ grid-template-columns: repeat(3, 1fr);
   text-decoration: none;
 }
 
+.youtube-button {
+  background: #fff;
+}
+
