@@ -413,3 +413,11 @@ grid-template-columns: repeat(3, 1fr);
   text-decoration: none;
   color: #8a6d1d;
 }
+
+.image-detail img {
+  display: block;
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  margin: 0 auto;
+}
