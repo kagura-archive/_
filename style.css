@@ -449,3 +449,11 @@ border: 1px solid #fff;
   display: block;
   margin: 30px auto;
 }
+
+.year-title {
+  font-family: "Zen Old Mincho", serif;
+  font-size: 18px;
+  font-weight: 400;
+  margin: 35px 0 18px;
+  letter-spacing: 0.08em;
+}
