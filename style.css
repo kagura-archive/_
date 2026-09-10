@@ -454,6 +454,7 @@ border: 1px solid #fff;
   font-family: "Zen Old Mincho", serif;
   font-size: 18px;
   font-weight: 400;
-  margin: 35px 0 18px;
+  text-align: center;
   letter-spacing: 0.08em;
+  margin: 35px 0 18px;
 }
