@@ -457,4 +457,14 @@ border: 1px solid #fff;
   text-align: center;
   letter-spacing: 0.08em;
   margin: 35px 0 18px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.year-title::before,
+.year-title::after {
+  content: "";
+  flex: 1;
+  border-top: 1px solid #ccc;
 }
