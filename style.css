@@ -470,5 +470,6 @@ border: 1px solid #fff;
 }
 
 footer {
-    background: transparent;
+  background: #1c1c1c;
+  color: #fff;
 }
