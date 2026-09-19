@@ -468,11 +468,3 @@ border: 1px solid #fff;
   flex: 1;
   border-top: 1px solid #ccc;
 }
-
-footer {
-  background: #1c1c1c;
-  color: #fff;
-  font-size: 12px;
-  padding: 30px 20px;
-  box-sizing: border-box;
-}
