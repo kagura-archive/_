@@ -478,22 +478,22 @@ border: 1px solid #fff;
   grid-template-columns: 130px 1fr;
   gap: 15px;
   padding: 12px 10px;
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid #ddd;
   line-height: 1.7;
 }
 
 .history-date {
-  color: #aaa;
+  color: #666;
   white-space: nowrap;
 }
 
 .history-event {
-  color: #eee;
+  color: #333;
 }
 
 .history-event small {
   display: block;
-  color: #999;
+  color: #777;
   font-size: 0.85em;
   margin-top: 3px;
 }
