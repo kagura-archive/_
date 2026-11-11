@@ -469,3 +469,38 @@ border: 1px solid #fff;
   border-top: 1px solid #ccc;
 }
 
+.history-list {
+  margin: 20px 0 35px;
+}
+
+.history-item {
+  display: grid;
+  grid-template-columns: 130px 1fr;
+  gap: 15px;
+  padding: 12px 10px;
+  border-bottom: 1px solid #333;
+  line-height: 1.7;
+}
+
+.history-date {
+  color: #aaa;
+  white-space: nowrap;
+}
+
+.history-event {
+  color: #eee;
+}
+
+.history-event small {
+  display: block;
+  color: #999;
+  font-size: 0.85em;
+  margin-top: 3px;
+}
+
+@media (max-width: 600px) {
+  .history-item {
+    grid-template-columns: 1fr;
+    gap: 2px;
+  }
+}
